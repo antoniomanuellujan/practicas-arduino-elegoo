@@ -1,3 +1,0 @@
-# Sonómetro con Arduino
-
-## Tutoriales
