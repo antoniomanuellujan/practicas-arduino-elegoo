@@ -10,6 +10,7 @@ En esta práctica se montará un display de 7 segmentos (cátodo común) en una 
 - Placa protoboard
 - Display de 7 segmentos (cátodo común)
 - Resistencia de 220Ω
+- Resistencia de 10 kΩ
 - Pulsador
 - Cables
 
@@ -24,11 +25,9 @@ En esta práctica se montará un display de 7 segmentos (cátodo común) en una 
 
 
 
-
-
 ## Esquema eléctrico
 
-![](contador-display-7segmentos-placa.png)
+![](dado-electronico-catodo-comun.png)
 
 ## Programación en Arduino
 
